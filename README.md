@@ -24,3 +24,24 @@ Preferences: Open Settings (JSON)
 
 
 # min 37
+
+# Conceito de imutabilidade
+
+Estado mantem uma informação acessível em tempo real
+
+# Rotas 
+
+    npm i react-router-dom -S
+    npm install @types/react-router-dom -S
+
+
+# Mapa gratuito
+
+    npm i leaflet -S
+    npm i react-leaftlet -S
+
+    npm i leaflet react-leaflet -S
+
+    npm i react-leaflet -D
+
+ https://github.com/PaulLeCam/react-leaflet/blob/master/example/components/simple.js
