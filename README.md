@@ -34,6 +34,9 @@ Estado mantem uma informação acessível em tempo real
     npm i react-router-dom -S
     npm install @types/react-router-dom -S
 
+# Banco de Imagens
+
+    https://unsplash.com/
 
 # Mapa gratuito
 
@@ -49,3 +52,9 @@ Estado mantem uma informação acessível em tempo real
     https://github.com/react-dropzone/react-dropzone
 
  https://github.com/PaulLeCam/react-leaflet/blob/master/example/components/simple.js
+
+# Deploy de frontend
+
+    https://www.netlify.com/
+    
+    https://vercel.com/
